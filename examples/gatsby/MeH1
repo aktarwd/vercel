@@ -1,0 +1,57 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+<style>
+.formula {
+background-color: black;
+color: blue;
+margin: 25px;
+padding: 25px;
+}
+</style>
+</head>
+<body>
+
+
+
+  <a href="#">formula 1</a>
+  <a href="#">formula 2</a>
+  <a href="#">formula 3</a>
+</div>
+</div>
+</div>
+
+
+<div class="formula">
+<h2>F1</h2>
+<a href="http://www.aktar.22web.org"><button onclick="">Formula Calc</a>
+</button>
+
+
+<p>Check Nobody calculated.</p>
+</div>
+
+<div class="topnav">
+<a class="active" href="#home">Home</a>
+<a href="#news">News</a>
+<a href="#contact">Contact</a>
+<a href="#about">About</a>
+
+
+
+</div>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<a href="http://www.aktar.22web.org"><button onclick="">enter</a>
+</button>
+</head>
+</html>
