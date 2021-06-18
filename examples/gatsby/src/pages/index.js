@@ -17,8 +17,14 @@ function Index() {
       <Helmet>
         <title>Gatsby + Node.js (TypeScript) API</title>
       </Helmet>
-      <h1>Gatsby + Node.js (TypeScript) API</h1>
-      <h2>
+      <h1>Gby + Node.js (TypeScript) API</h1>
+      
+
+     <script>
+     alert('Html/php code!');
+     </script>
+
+       <h2>
         Deployed with{' '}
         <a
           href="https://vercel.com/docs"
